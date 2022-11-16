@@ -1,0 +1,22 @@
+{
+  "name": "jest_kes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaylaesmith1/jest_kes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaylaesmith1/jest_kes/issues"
+  },
+  "homepage": "https://github.com/Kaylaesmith1/jest_kes#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
